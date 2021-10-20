@@ -3,7 +3,7 @@ package utiles;
 
 import java.util.ArrayList;
 import java.util.List;
-//Test//
+
 public class EnumBuilder {
 
     private static List<EnumBuilder> listOfTypes = new ArrayList<>();
